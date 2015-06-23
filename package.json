@@ -1,6 +1,6 @@
 {
   "name": "gulp-vars",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "CSS Variables",
   "main": "index.js",
   "dependencies": {
