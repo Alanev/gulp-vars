@@ -1,4 +1,3 @@
-#Gulp-vars
 
 Plugin for gulp to add support for the [W3C-style CSS variables](http://www.w3.org/TR/css-variables/) syntax.
 
@@ -31,7 +30,7 @@ element{
 }
 ```
 
-## Input Exaple
+## Output Exaple
 
 ```css
 element{
