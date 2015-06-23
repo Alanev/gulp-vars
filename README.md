@@ -19,7 +19,7 @@ gulp.task('default', function() {
 });
 ```
 
-## Input Exaple
+## Input Example
 
 ```css
 :root{
@@ -30,14 +30,16 @@ element{
 }
 ```
 
-## Output Exaple
+## Output Example
 
 ```css
+:root{
+  --variable: value;
+}
 element{
   color: value;
 }
 ```
 
 ## License
-
 MIT
